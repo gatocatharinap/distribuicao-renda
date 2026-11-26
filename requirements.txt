@@ -7,4 +7,5 @@ streamlit
 seaborn
 matplotlib
 scikit-learn
-archodfpy
+arch
+odfpy
